@@ -1,6 +1,6 @@
 @extends('front.layouts.layoutlogin')
 @section('content')
-<main class="login-form">
+<main style="margin-top: 150px; margin-bottom:100px;" class="login-form">
   <div class="cotainer">
       <div class="row justify-content-center">
           <div class="col-md-8">
