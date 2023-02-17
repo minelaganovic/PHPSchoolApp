@@ -126,7 +126,7 @@
     <br>
     <div class="row">
         @foreach ($courses as $course )
-        @if ($course->state=='otvoren')
+        @if ($course->state=='otvoren' && Session::get('loginId')==$course->idUser)
           <div class="col-sm-6">
               <div class="single-home-blog">
                   <div class="card">

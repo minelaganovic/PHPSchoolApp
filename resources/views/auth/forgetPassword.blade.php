@@ -9,7 +9,7 @@
                   <div class="card-body">
   
                     @if (Session::has('message'))
-                         <div class="alert alert-success" role="alert">
+                         <div style="color:green;" class="alert alert-success" role="alert">
                             {{ Session::get('message') }}
                         </div>
                     @endif
