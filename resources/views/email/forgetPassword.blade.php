@@ -1,4 +1,4 @@
-<h1>Forget Password Email</h1>
+<h1>Zaboravi Lozinku Email</h1>
    
-You can reset password from bellow link:
-<a href="{{ route('reset.password.get', $token) }}">Reset Password</a>
+Ako želite promenite šifu idite na sledeći link :
+<a href="{{ route('reset.password.get', $token) }}">Promena Lozinke</a>
