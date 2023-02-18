@@ -1,6 +1,6 @@
 @extends('front.layouts.layoutlogin')
 @section('content')
-<main style="margin-top: 150px; margin-bottom:100px;" class="login-form">
+<main style="margin-top:110px; margin-bottom:60px;" class="login-form">
   <div class="cotainer">
       <div class="row justify-content-center">
           <div class="col-md-8">
@@ -27,7 +27,7 @@
                           </div>
                           <div class="col-md-6 offset-md-4">
                               <button type="submit" class="btn btn-primary">
-                                  Send Password Reset Link
+                                  Pošalji zahtev za promenu lozinke
                               </button>
                           </div>
                       </form>
