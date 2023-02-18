@@ -1,10 +1,10 @@
 @extends('front.layouts.layoutlogin')
 @section('content')
-<main style="margin-top:110px; margin-bottom:60px;" class="login-form">
+<main style="margin-top:120px; margin-bottom:60px;" class="login-form">
   <div class="cotainer">
       <div class="row justify-content-center">
           <div class="col-md-8">
-              <div class="card">
+              <div style="background-color: #9de3eb;border:1px solid red; box-shadow: 10px 22px 20px 10px rgba(134, 30, 12, 0.361); border-radius:20px;" class="card">
                   <div class="card-header">Promena lozinke</div>
                   <div class="card-body">
   
