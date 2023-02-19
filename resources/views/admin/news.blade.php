@@ -36,10 +36,10 @@
                       @csrf
                       <div id="basicInfo">
                       <label class="card-title" for="fname">Naslov Novosti: </label>
-                      <input style="margin-top:20px;margin-left:20px;border-radius:10px; height:40px;" type="text" id="nname" name="nname" placeholder="Akuelna vest" >
-                      <br> 
+                      <input style="margin-left:20px;border-radius:10px; height:40px;" type="text" id="nname" name="nname" placeholder="Akuelna vest" >
+                      <br><br>
                       <label for="detail">Objašnjenje Novosti: </label>
-                      <textarea id="detail" name="detail"  placeholder="Komentari" style="height:150px;margin-top:20px;margin-right:20px;border-radius:10px;"></textarea>
+                      <textarea id="detail" name="detail"  placeholder="Komentari" style="height:150px;margin-right:20px;border-radius:10px;"></textarea>
                       <button class="btn_1" style="float:bottom;justify-content:right;" type="submit">Sačuvaj</button>
                       </div>
                     </form>

@@ -25,8 +25,8 @@
                     @foreach ($contact as $cnt)
                     <div class="contact_info">
                         <p><span> Addresa :</span> {{$cnt['adress']}}</p>
-                        <p><span> Telefon :</span> {{$cnt['email']}}</p>
-                        <p><span> Email : </span> {{$cnt['phone']}}</p>
+                        <p><span> Email :</span> {{$cnt['email']}}</p>
+                        <p><span> Telefon : </span> {{$cnt['phone']}}</p>
                     </div>
                     @endforeach
                 </div>

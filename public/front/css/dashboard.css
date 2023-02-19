@@ -267,6 +267,10 @@ tr:nth-child(even){
 	table, thead, tbody, th, td, tr { 
 			display: block; 
 		}
+
+	#nname{
+		margin-left: 0%;
+	}
 		
 	thead tr { 
 			position: absolute;
