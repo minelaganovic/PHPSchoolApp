@@ -2,7 +2,7 @@
 
 <p>Korišćenjem PHP tehnologije (Laravel), tehnologije JS i MySQL baze podataka realizovana je veb aplikacija za samostalno učenje php jezika.</p>
 <p>Postoje najmanje tri vrste registrovanih korisnika: administrator, predavač i polaznik. Sistemu mogu pristupati i neregistrovani korisnici, ali samo veb stranicama koje su vidljive spolja. </p>
-<img src="imagefirst.jpeg" alt="Girl in a jacket" width="500" height="600">
+<img src="imagefirst.jpeg" alt="phpschool">
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
