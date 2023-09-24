@@ -1,4 +1,8 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+## PHPSchoolApp
+
+<p>Korišćenjem PHP tehnologije (Laravel), tehnologije JS i MySQL baze podataka realizovana je veb aplikacija za samostalno učenje php jezika.</p>
+<p>Postoje najmanje tri vrste registrovanih korisnika: administrator, predavač i polaznik. Sistemu mogu pristupati i neregistrovani korisnici, ali samo veb stranicama koje su vidljive spolja. </p>
+<img src="imagefirst.jpeg" alt="Girl in a jacket" width="500" height="600">
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
