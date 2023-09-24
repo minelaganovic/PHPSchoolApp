@@ -1,6 +1,6 @@
-## PHPSchoolApp
+## PHPSkola
 
-<p>Korišćenjem PHP tehnologije (Laravel), tehnologije JS i MySQL baze podataka realizovana je veb aplikacija za samostalno učenje php jezika.</p>
+<p>Korišćenjem PHP tehnologije (Laravel), tehnologije JS i MySQL baze podataka realizovana je veb aplikacija za samostalno učenje php progrmiranja.</p>
 <p>Postoje najmanje tri vrste registrovanih korisnika: administrator, predavač i polaznik. Sistemu mogu pristupati i neregistrovani korisnici, ali samo veb stranicama koje su vidljive spolja. </p>
 <img src="imagefirst.jpeg" alt="phpschool">
 
