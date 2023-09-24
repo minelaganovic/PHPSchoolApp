@@ -1,16 +1,10 @@
 ## PHPSkola
 
-<p>Korišćenjem PHP tehnologije (Laravel), tehnologije JS i MySQL baze podataka realizovana je veb aplikacija za samostalno učenje php progrmiranja.</p>
-<p>Postoje najmanje tri vrste registrovanih korisnika: administrator, predavač i polaznik. Sistemu mogu pristupati i neregistrovani korisnici, ali samo veb stranicama koje su vidljive spolja. </p>
+<p>Using PHP technology (Laravel), JS and MySQL technology, the database is a web application for self-learning php programming.</p>
+
+<p>There are at least three types of registered users: administrator, lecturer and student. The system can also be accessed by unregistered users, but only the web pages that are visible from the outside.</p>
 <img src="imagefirst.jpeg" alt="phpschool">
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packag![imagefirst](https://user-images.githubusercontent.com/59210673/221548402-a1829bde-c343-4ff2-895d-17f8a2c7527d.jpeg)
-ist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
 
 ## About Laravel
 
