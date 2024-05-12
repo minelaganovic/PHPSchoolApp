@@ -1,8 +1,10 @@
 ## PHPSkola
 
-<p>Using PHP technology (Laravel), JS and MySQL technology, the database is a web application for self-learning php programming.</p>
+<p>This web application for self-learning PHP programming utilizes PHP technology, the Laravel framework, JavaScript, and MySQL technology for the database. The system supports various types of registered users, including administrators, instructors, and students. Additionally, unregistered users can access the system, but only the external part of the web pages is available to them.
 
-<p>There are at least three types of registered users: administrator, lecturer and student. The system can also be accessed by unregistered users, but only the web pages that are visible from the outside.</p>
+The main purpose of this platform is to enable users to independently learn PHP programming through interactive lessons, materials, and knowledge assessment tests. Instructors have the ability to upload learning materials and create tests, while students can access courses, select lessons and tests based on their interests and level of knowledge.
+
+Different levels of learning are available, including basic levels for PHP, HTML, and CSS, as well as advanced levels for PHP programming. Through interactive lessons, students can follow materials, solve tasks and tests, and track their progress through the system. Administrators have the ability to manage user accounts, create new courses, and track usage statistics of the platform.</p>
 <img src="imagefirst.jpeg" alt="phpschool">
 
 
